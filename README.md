@@ -4,12 +4,20 @@
    <div style="display: flex; justify-content: space-between;">
         <img src="https://github.com/user-attachments/assets/f68dff32-4047-4a8e-966e-9a45e868620c" style="width: 49%; height: auto;">
 
-**`(Developer/Student/Child)`**
+**`(Developer/Student/Son of God)`**
 
 I am a backend and frontend developer. I started off having 0 background in coding but time passedby and I was able to learn a lot that I thought I am not capable of. 
 
+#
+
+### 🚶‍➡️ Things I Like To Do
+   <br>▪️Read</br>
+    <br>▪️Study</br>
+     <br>▪️Pray</br>
 
 
+#
+### 📱 Media
    <p align="left">
       <a href="https://www.linkedin.com/feed/">
          <img alt="LinkedIn" title="Connect with me in LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue?style=plastic&logo=icons8-linkedin11111" style="width: 150px; height: 35px;"/></a> 
@@ -48,4 +56,10 @@ I am a backend and frontend developer. I started off having 0 background in codi
     <img src="https://github.com/user-attachments/assets/da6d3be4-b1a5-4e4a-a143-749617871767" style="width: 49%; height: auto;">
     <img src="https://github.com/user-attachments/assets/e82ce1e7-59f7-4441-9ea2-226832d89600" style="width: 49%; height: auto;">
 </div>
+
+#
+
+### 🔨 Latest work
+### Research proposal
+![1](https://github.com/user-attachments/assets/d5fbef9a-4ebd-45dc-8db6-18ffb47c7df4)
 
